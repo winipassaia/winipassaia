@@ -28,7 +28,7 @@ Também: n8n, APIs REST e webhooks
 Toco baixo, gosto de me aventurar em problemas novos até achar a solução, mantenho um homelab, curto produzir vídeos e fazer stream e, no tempo livre, jogo bastante.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="contribuições em 3D" src="profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-orange-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-orange-light.svg" />
+  <img alt="contribuições em 3D" src="profile-3d-contrib/profile-orange-dark.svg" />
 </picture>
